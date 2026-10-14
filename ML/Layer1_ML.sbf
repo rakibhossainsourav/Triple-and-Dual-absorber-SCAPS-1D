@@ -1,0 +1,127 @@
+> SCAPS 3.3.09 ELIS-UGent: Version scaps3309.exe, dated 18-12-2020, 16:03:28
+> SCAPS Batch Settings file, saved on 	28-07-2025 at 13:09:38
+> problem definition file loaded :
+> d:\Scaps\def\Cs3Bi2I9_MASnI3_Cs2TiBr6_NiOCIGS.scaps
+> last saved: 	24-07-2025 at 12:02:30
+> 
+
+batch display mode = suppressed
+
+Batch parameter 0 :
+
+Label 1 : layer 1
+Label 2 : thickness
+Label 3 : nihil
+Label 4 : nihil
+simultaneous :  0
+values from a list :  1
+logarithmic variation :  0
+values are file names :  0
+number of parameters :    3
+list of parameters saved :  0
+parameter   0:   1.00000000e-01
+parameter   1:   5.00000000e-01
+parameter   2:   1.50000000e+00
+
+Batch parameter 1 :
+
+Label 1 : layer 1
+Label 2 : bandgap
+Label 3 : nihil
+Label 4 : nihil
+simultaneous :  0
+values from a list :  0
+logarithmic variation :  0
+startvalue :   2.01000000e+00
+stopvalue :   2.03000000e+00
+number of steps :    3
+
+Batch parameter 2 :
+
+Label 1 : layer 1
+Label 2 : electron affinity
+Label 3 : nihil
+Label 4 : nihil
+simultaneous :  0
+values from a list :  0
+logarithmic variation :  0
+startvalue :   3.38000000e+00
+stopvalue :   3.40000000e+00
+number of steps :    3
+
+Batch parameter 3 :
+
+Label 1 : layer 1
+Label 2 : dielectric permittivity
+Label 3 : nihil
+Label 4 : nihil
+simultaneous :  0
+values from a list :  0
+logarithmic variation :  0
+startvalue :   8.00000000e+00
+stopvalue :   1.80000000e+01
+number of steps :    3
+
+Batch parameter 4 :
+
+Label 1 : layer 1
+Label 2 : NA
+Label 3 : nihil
+Label 4 : nihil
+simultaneous :  0
+values from a list :  1
+logarithmic variation :  0
+values are file names :  0
+number of parameters :    3
+list of parameters saved :  0
+parameter   0:   1.00000000e+16
+parameter   1:   1.00000000e+17
+parameter   2:   1.00000000e+18
+
+Batch parameter 5 :
+
+Label 1 : layer 1
+Label 2 : defect 1
+Label 3 : Nt total
+Label 4 : nihil
+simultaneous :  0
+values from a list :  1
+logarithmic variation :  0
+values are file names :  0
+number of parameters :    3
+list of parameters saved :  0
+parameter   0:   1.00000000e+13
+parameter   1:   1.00000000e+14
+parameter   2:   1.00000000e+15
+
+Batch parameter 6 :
+
+Label 1 : layer 1
+Label 2 : NC
+Label 3 : nihil
+Label 4 : nihil
+simultaneous :  0
+values from a list :  1
+logarithmic variation :  0
+values are file names :  0
+number of parameters :    3
+list of parameters saved :  0
+parameter   0:   1.00000000e+18
+parameter   1:   1.00000000e+19
+parameter   2:   1.00000000e+20
+
+Batch parameter 7 :
+
+Label 1 : layer 1
+Label 2 : NV
+Label 3 : nihil
+Label 4 : nihil
+simultaneous :  0
+values from a list :  1
+logarithmic variation :  0
+values are file names :  0
+number of parameters :    3
+list of parameters saved :  0
+parameter   0:   1.00000000e+18
+parameter   1:   1.00000000e+19
+parameter   2:   1.00000000e+20
